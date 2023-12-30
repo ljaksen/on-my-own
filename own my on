@@ -1,4 +1,3 @@
-                                                                 <!-- Landing Page -->
 <html>
     <head>
         <title> Coding </title>
@@ -11,9 +10,9 @@
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
             <br>
-            <a href="#Why Is Coding Good">CFB</a>
+            <a href="#Why Is Coding Good">WICG</a>
         </nav>
-
+     <p> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> </p>
      <h1 id="Why Is Coding Good"> Coding For Begginers</h1>
            <!-- That's Me! -->
            <p><b> Why Is Coding Good?</b></p>
