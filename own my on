@@ -1,24 +1,29 @@
 <html>
     <head>
-        <title> Coding </title>
-        <meta name="Luke Ogea "
-     </head>
+        <title> About Us </title>
+        <meta name="Luke Ogea"
+    </head>
 
-     <body>
+    <body>
         <nav>
             <a href="index.html">Home</a>
-            <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
+            <a href="about.html">About</a>
             <br>
-            <a href="#Why Is Coding Good">WICG</a>
+            <a href="#About Us"> About us</a>
+            <a href="#Who We Are"> Who We Are</a>
         </nav>
-     <p> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> </p>
-     <h1 id="Why Is Coding Good"> Coding For Begginers</h1>
-           <!-- That's Me! -->
-           <p><b> Why Is Coding Good?</b></p>
-                <ol> <li>fun</li>
-                     <li>entertaining</li>
-                     <li> opens doors</li>
-                </ol>
-     </body>
-</html>   
+
+        <h1> <b> About Us </b> </h1>
+            <h2 id= "About Us"><b>About Us</b></h2>
+            <p>Welcome to [Your Company Name] a hub of innovation, expertise, and dedication.
+             At [Your Company Name], we are driven by a shared passion for [your industry/niche]
+             and a commitment to delivering exceptional solutions that make a difference. </p>
+             <h2 id="Who We Are"><b>Who We Are </b></h2>
+             <p>[Your Company Name] is not just a company; we are a community of [industry professionals, experts, enthusiasts, etc.]
+             who have come together to redefine the standards in [your industry].
+             Our diverse team brings a wealth of experience and expertise to the table,
+             ensuring that we approach every challenge with a comprehensive and creative perspective.</p>
+        
+    </body>
+</html>
