@@ -12,6 +12,7 @@
             <a href="contact.html">Contact</a>
             <br>
             <a href="#Why Is Coding Good">WICG</a>
+            <a href="#coding checbox">Coding Checkbox</a>
         </nav>
      <p> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
          a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
@@ -26,5 +27,15 @@
                      <li>entertaining</li>
                      <li> opens doors</li>
                 </ol>
+            <p> Those are just a few reasons, <br>
+            <h2 id= "coding checkbox"> Please take the time to complete this form so I beleive you are understanding this material luke </h2> </p>
+            
+            <input type="checkbox"> <p> understand? </p><br>
+            <input type="checkbox"> <p> Getting it? </p><br>
+            <input type="checkbox"> <p> Almost second nature? </p><br>
+            <input type="checkbox"> <p> Is it fun? </p><br>
+            <input type="radio">
+            <input type="text">
+
      </body>
-</html>  
+</html>   
