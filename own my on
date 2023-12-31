@@ -12,7 +12,7 @@
             <a href="contact.html">Contact</a>
             <br>
             <a href="#Why Is Coding Good">WICG</a>
-            <a href="#coding checbox">Coding Checkbox</a>
+            <a href="#coding checkbox">Coding Checkbox</a>
         </nav>
 
      <p> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
@@ -24,7 +24,8 @@
          <h1 id="Why Is Coding Good"> Coding For Begginers</h1>
            <!-- That's Me! -->
            <p><b> Why Is Coding Good?</b></p>
-                <ol> <li>fun</li>
+                <ol>
+                     <li>fun</li>
                      <li>entertaining</li>
                      <li> opens doors</li>
                 </ol>
@@ -45,4 +46,4 @@
             </form>
 
      </body>
-</html>   
+</html>  
