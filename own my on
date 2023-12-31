@@ -14,6 +14,7 @@
             <a href="#Why Is Coding Good">WICG</a>
             <a href="#coding checbox">Coding Checkbox</a>
         </nav>
+
      <p> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
          a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
          a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
@@ -29,13 +30,19 @@
                 </ol>
             <p> Those are just a few reasons,</p> <br>
             <h2 id= "coding checkbox"> Please take the time to complete this form so I beleive you are understanding this material luke </h2>
-            
-            <input type="checkbox"> <p> understand? </p>
-            <input type="checkbox"> <p> Getting it? </p>
-            <input type="checkbox"> <p> Almost second nature? </p>
-            <input type="checkbox"> <p> Is it fun? </p>
-            <input type="radio">
-            <input type="text">
+
+            <form>
+                <label> Understand?</label>
+                <input type="checkbox"> <br>
+                <label> Getting it?</label>
+                <input type="checkbox"> <br>
+                <label>Almost second nature?</label>
+                <input type="checkbox"> <br>
+                <label> Is it fun? </label>
+                <input type="checkbox"> <br>
+                <input type="radio">
+                <input type="text">
+            </form>
 
      </body>
 </html>   
