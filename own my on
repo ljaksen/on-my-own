@@ -1,3 +1,4 @@
+                                                                 <!-- Landing Page -->
 <html>
     <head>
         <title> Coding </title>
@@ -13,10 +14,10 @@
             <a href="#Why Is Coding Good">WICG</a>
         </nav>
      <p> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
-         a <br> a ,br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
-         a <br> a ,br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
-         a <br> a ,br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
-         a <br> a ,br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> </p>
+         a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
+         a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
+         a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br>
+         a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> a <br> </p>
 
          <h1 id="Why Is Coding Good"> Coding For Begginers</h1>
            <!-- That's Me! -->
@@ -26,4 +27,4 @@
                      <li> opens doors</li>
                 </ol>
      </body>
-</html>   
+</html>  
