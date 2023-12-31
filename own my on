@@ -27,8 +27,8 @@
                      <li>entertaining</li>
                      <li> opens doors</li>
                 </ol>
-            <p> Those are just a few reasons, <br>
-            <h2 id= "coding checkbox"> Please take the time to complete this form so I beleive you are understanding this material luke </h2> </p>
+            <p> Those are just a few reasons,</p> <br>
+            <h2 id= "coding checkbox"> Please take the time to complete this form so I beleive you are understanding this material luke </h2>
             
             <input type="checkbox"> <p> understand? </p>
             <input type="checkbox"> <p> Getting it? </p>
